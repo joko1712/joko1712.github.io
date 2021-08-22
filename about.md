@@ -1,4 +1,9 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I am a Portuguese student currently taking my master's degree in Computer Science. Not really on twitter so bellow is my github and linkedIn
 
+##Github
+https://github.com/joko1712
+
+##Linkedin
+https://www.linkedin.com/in/josé-bonança-pedreira-9126a7210
