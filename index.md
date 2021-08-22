@@ -1,3 +1,3 @@
-## Hello and Wellcome to my Blog
+## Joko Journey
 
 I'm going to talk about my journey through deep learning. I'm currently starting to read/study the book Deep Learning for Coders with fastai & PyTorch, and I was recommended to start a blog where I could talk and present my learning process, difficulties but also future projects. I hope those who read this in the future don't think it's too cringy/bad as it's the first time I've ventured to make a blog. If you found this blog and want to investigate the book the link that follows will guide you to the right page to do so [link to fast.ai](https://www.fast.ai). My posts will appear after this file. 
