@@ -5,7 +5,7 @@ Table of contents:
 1. TOC
 {:toc}
 
-### In this post I will write everything that I feel is important or that I will need in the future
+In this post I will write everything that I feel is important or that I will need in the future
 
 ## Chapter 2
 
