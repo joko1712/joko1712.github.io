@@ -20,3 +20,9 @@ In this post I will write everything that I feel is important or that I will nee
 - This chapter was super intriguing and very complicated and because the topic was more about personal thinking, so there isn't much of annotations.
 - Authors please change the line about *Technology is power* at page 115 to the Spider-Man uncle Ben Quote.
 - Check out -> [*An Ethical Toolkit for Engineering/Design Pratice*](https://oreil.ly/vDGGC).
+
+## Chapter 4
+
+- Stochastic Gradient Descent(SGD)-> Learning by updating weights automatically.
+- Have a Baseline: can be a simple solution made by you so you can compare with future improvements or download a similar idea/work that other people formulated so you can have an ideia of what is expected.
+- Tensor: Rank= number of axes or dimensions; Shape= size of each axis of a tensor.
