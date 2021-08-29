@@ -26,3 +26,6 @@ In this post I will write everything that I feel is important or that I will nee
 - Stochastic Gradient Descent(SGD)-> Learning by updating weights automatically.
 - Have a Baseline: can be a simple solution made by you so you can compare with future improvements or download a similar idea/work that other people formulated so you can have an ideia of what is expected.
 - Tensor: Rank= number of axes or dimensions; Shape= size of each axis of a tensor.
+- Figure 4-1 -> Just perfection.
+- In deep learning "gradient" usually means the value of a functions derivative at a partucular argument value.
+- Learning Rate(LR)- is often a number between 0.001 and 0.1. Usually some courses/websites have some difficulty explaining, but in the book it is very well explained.
